@@ -5,9 +5,4 @@ Configura as redes:
 - UFMG 
 - eduroam
 
-# Requisitos
-
-- Python 3.x ou superior
-- Powershell
-
-Você pode baixar diretamente o executavel do programa wifi-ufmg.exe para configuração rápida do Wifi
+Você pode baixar diretamente o executavel do programa **Wi-Fi.exe** para configuração rápida do Wifi
