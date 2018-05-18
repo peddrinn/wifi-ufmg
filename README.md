@@ -11,7 +11,7 @@ Configura as redes:
 
 # Para rápida configuração do WiFi da UFMG
 
-- Você pode baixar diretamente o programa [**Wi-Fi.exe**](https://github.com/peddrinn/wifi-ufmg/raw/master/Wi-Fi.exe)
+Baixe o programa [**Wi-Fi.exe**](https://github.com/peddrinn/wifi-ufmg/raw/master/Wi-Fi.exe) e execute-o
 
 
 # Para gerar um novo executável
