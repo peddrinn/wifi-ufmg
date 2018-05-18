@@ -1,4 +1,7 @@
 # Wi-Fi UFMG
+
+Faça o [download aqui](https://github.com/peddrinn/wifi-ufmg/raw/master/Wi-Fi.exe)
+
 Automação da configuração do Wi-Fi da Universidade Federal de Minas Gerais (UFMG). O código faz todas as configurações necessárias no Windows para utilização do Wi-Fi dentro da UFMG.
 
 Configura as redes:
