@@ -5,7 +5,7 @@ Configura as redes:
 - UFMG 
 - eduroam
 
-# Para rápida configuração do WiFi da Universidade
+# Para rápida configuração do WiFi da UFMG
 
 - Você pode baixar diretamente o programa **Wi-Fi.exe**
   - Alguns anti-vírus podem reclamar nesta opção
