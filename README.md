@@ -3,7 +3,7 @@ Repositório para automatizar a configuração do Wi-Fi da Universidade Federal 
 
 # Requisitos
 
-Python 3.x ou superior
-Powershell
+- Python 3.x ou superior
+- Powershell
 
 Você pode baixar diretamente o executavel do programa wifi-ufmg.exe para configuração rápida do Wifi
