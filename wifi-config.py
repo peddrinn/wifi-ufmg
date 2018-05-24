@@ -76,3 +76,7 @@ subprocess.call("powershell.exe -Command netsh wlan add profile filename='Wi-Fi-
 
 os.remove("Wi-Fi-eduroam.xml")
 os.remove("Wi-Fi-UFMG.xml")
+
+print("SEU Wi-Fi está configurado, aproveite!")
+
+subprocess.call("powershell.exe -Command $wshell = New-Object -ComObject Wscript.Shell;$wshell.Popup('O Wi-Fi foi configurado com sucesso', 0, 'PRONTO!', 0x1 )", shell=True)
